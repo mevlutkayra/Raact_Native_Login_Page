@@ -5,8 +5,6 @@ import {
   ScrollView,
   KeyboardAvoidingView,
   View,
-  Text,
-  StatusBar,
   Image,
   Dimensions,
   Platform,
